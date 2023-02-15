@@ -13,7 +13,7 @@ plugins {
 
 repositories { mavenCentral() }
 
-val beamVersion = "2.40.0"
+val beamVersion = "2.45.0"
 
 dependencies {
     // Kotlin dependencies.
